@@ -3,7 +3,7 @@ pipeline {
 
     tools {
         maven 'mvn3.9.11' // Replace with your Jenkins Maven tool name
-        jdk 'temurin-8'   // Use your Java 8 JDK tool name instead of openjdk-22
+        jdk 'jdk17'   // Use your Java 8 JDK tool name instead of openjdk-22
     }
 
     stages {
