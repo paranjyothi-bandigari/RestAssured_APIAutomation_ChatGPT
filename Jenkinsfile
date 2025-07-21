@@ -3,8 +3,8 @@
      agent any
 
      tools {
-         maven 'Maven 3.9.11' // Replace with your Jenkins Maven tool name
-         jdk 'JDK 22'        // Replace with your Jenkins JDK tool name
+         maven 'mvn3.9.11' // Replace with your Jenkins Maven tool name
+         jdk 'JDK22'        // Replace with your Jenkins JDK tool name
      }
 
      stages {
