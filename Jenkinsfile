@@ -4,7 +4,7 @@
 
      tools {
          maven 'Maven 3.9.11' // Replace with your Jenkins Maven tool name
-         jdk 'JDK 22'        // Replace with your Jenkins JDK tool name
+         jdk 'JDK 17'        // Replace with your Jenkins JDK tool name
      }
 
      stages {
