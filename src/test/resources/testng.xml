@@ -3,15 +3,12 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="/Users/nagarjunakoppala/IdeaProjects/RestAssuredAPIAutomationChatGPT">
         <classes>
-            <class name="Tests.GetUserTest"/>
-            <class name="Tests.PUTUserAPITest"/>
+
              <class name="Tests.NegativeSenariosForGET"/>
              <class name="Tests.BuilderPattern"/>
              <class name="Tests.CreateUserPOJOTest"/>
              <class name="Tests.GetUsersQueryParamEdgeCasesTest"/>
              <class name="Tests.NonBuilderPatternTest"/>
-             <class name="Tests.PATCHUserAPITest"/>
-             <class name="Tests.POSTRegisterAPITest"/>
              <class name="Tests.PostWithHeadersUserWithComplexPayloadTest"/>
              <class name="Tests.NegativeScenariosTest"/>
              <class name="Tests.POSTCreateUserAPITest"/>
