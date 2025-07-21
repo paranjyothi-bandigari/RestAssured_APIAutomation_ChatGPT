@@ -1,0 +1,1 @@
+{"uuid":"b0d25ff9-e103-4be3-b47e-2b54d76aa98b","name":"Tests.CreateUserPOJOTest","children":["cacb6020-8d15-46a8-bef2-f0aaffc8690d"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1752703825996,"stop":1752703826143}],"afters":[],"start":1752703825985,"stop":1752703827048}
