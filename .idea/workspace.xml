@@ -5,13 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5926b245-ea94-4d4f-9f98-da01f360ab1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "paranjyothi-bandigari"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/paranjyothi-bandigari/RestAssuredAPIAutomationChatGPT.git",
+    "accountId": "da015dfe-dbe5-48f3-b9bb-47d7f67e0556"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -24,10 +49,130 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.RestAssuredAPIAutomationChatGPT [clean].executor": "Run",
+    "Maven.RestAssuredAPIAutomationChatGPT [compile].executor": "Run",
+    "Maven.RestAssuredAPIAutomationChatGPT [test].executor": "Run",
+    "Maven.RestAssuredAPIAutomationChatGPT [validate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG./Users/nagarjunakoppala/IdeaProjects/RestAssuredAPIAutomationChatGPT/CreateUserAPITestPOST.xml.executor": "Run",
+    "TestNG./Users/nagarjunakoppala/IdeaProjects/RestAssuredAPIAutomationChatGPT/GetUserTesttestng.xml.executor": "Run",
+    "TestNG./Users/nagarjunakoppala/IdeaProjects/RestAssuredAPIAutomationChatGPT/NegativeScenariostestng.xml.executor": "Run",
+    "TestNG./Users/nagarjunakoppala/IdeaProjects/RestAssuredAPIAutomationChatGPT/NegativeSenariosForGET.xml.executor": "Run",
+    "TestNG./Users/nagarjunakoppala/IdeaProjects/RestAssuredAPIAutomationChatGPT/PUTUserAPITest.xml.executor": "Run",
+    "TestNG./Users/nagarjunakoppala/IdeaProjects/RestAssuredAPIAutomationChatGPT/src/test/resources/testng.xml.executor": "Run",
+    "TestNG.BuilderPattern.executor": "Run",
+    "TestNG.CreateUserAPITest.executor": "Run",
+    "TestNG.CreateUserPOJOTest.executor": "Run",
+    "TestNG.CreateUserWithComplexPayloadTest.executor": "Run",
+    "TestNG.GetUsersQueryParamEdgeCasesTest.executor": "Run",
+    "TestNG.NegativeScenariosTest.executor": "Run",
+    "TestNG.PATCHUserAPITest.executor": "Run",
+    "TestNG.POSTRegisterAPITest.executor": "Run",
+    "TestNG.PUTUserAPITest.executor": "Run",
+    "TestNG.Test001.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/nagarjunakoppala/IdeaProjects/RestAssuredAPIAutomationChatGPT"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/nagarjunakoppala/IdeaProjects/RestAssuredAPIAutomationChatGPT/src/test/resources/testng.xml">
+    <configuration name="BuilderPattern" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAPIAutomationChatGPT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.BuilderPattern" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateUserPOJOTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAPIAutomationChatGPT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.CreateUserPOJOTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetUsersQueryParamEdgeCasesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAPIAutomationChatGPT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.GetUsersQueryParamEdgeCasesTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostWithHeadersUserWithComplexPayloadTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAPIAutomationChatGPT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.PostWithHeadersUserWithComplexPayloadTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/nagarjunakoppala/IdeaProjects/RestAssuredAPIAutomationChatGPT/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAPIAutomationChatGPT" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/nagarjunakoppala/IdeaProjects/RestAssuredAPIAutomationChatGPT/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.BuilderPattern" />
+        <item itemvalue="TestNG.CreateUserPOJOTest" />
+        <item itemvalue="TestNG.PostWithHeadersUserWithComplexPayloadTest" />
+        <item itemvalue="TestNG.GetUsersQueryParamEdgeCasesTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
